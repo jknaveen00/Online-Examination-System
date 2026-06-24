@@ -170,7 +170,7 @@ if($sn != $total)
 $sn++;
 header("location:account.php?q=quiz&step=2&eid=$eid&n=$sn&t=$total")or die('Error152');
 }
-else if( $_SESSION['key']!='sunny7785068889')
+else if( $_SESSION['key']!='jayyy7785068889')
 {
 $q=mysqli_query($con,"SELECT score FROM history WHERE eid='$eid' AND email='$email'" )or die('Error156');
 while($row=mysqli_fetch_array($q) )
