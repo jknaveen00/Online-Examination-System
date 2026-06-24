@@ -28,7 +28,7 @@ include_once 'dbConnection.php';
 <div class="header">
 <div class="row">
 <div class="col-lg-6">
-<span class="logo">MOHAMMED SATHAK ENGINEERING COLLEGE</span></div>
+<span class="logo">NEHRU COLLEGE OF MANAGEMENT</span></div>
 <div class="col-md-4 col-md-offset-2">
  <?php
  include_once 'dbConnection.php';
@@ -275,10 +275,10 @@ echo '</table></div></div>';}
 		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">JEEVIKA M</a>
+		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">NAVEEN J</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">jeevikamurugavel@gmail.com</h4>
-		<h4 style="font-family:'typo' ">MOHAMMED SATHAK ENGINEERING COLLEGE</h4></div></div>
+		<h4 style="font-family:'typo' ">naveen123@gmail.com</h4>
+		<h4 style="font-family:'typo' ">NEHRU COLLEGE OF MANAGEMENT</h4></div></div>
 		</p>
       </div>
     
