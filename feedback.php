@@ -170,7 +170,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Naveen</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
 		<h4 style="font-family:'typo' ">naveen16@gmail.com</h4>
-		<h4 style="font-family:'typo' ">MOHAMMED SATHAK ENGINEERING COLLEGE</h4></div></div>
+		<h4 style="font-family:'typo' ">NEHRU COLLEGE OF MANAGEMENT</h4></div></div>
 		</p>
       </div>
     
