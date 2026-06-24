@@ -29,7 +29,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 <div class="header">
 <div class="row">
 <div class="col-lg-6">
-<span class="logo">MOHAMMED SATHAK ENGINEERING COLLEGE</span></div>
+<span class="logo">NEHRU COLLEGE OF MANAGEMENT</span></div>
 <div class="col-md-2 col-md-offset-4">
 <a href="#" class="pull-right btn sub1" data-toggle="modal" data-target="#myModal"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span>&nbsp;<span class="title1"><b>Signin</b></span></a></div>
 <!--sign in modal start-->
@@ -198,7 +198,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
+		<a href="http://yogesh.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">YOGESH</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
 		<h4 style="font-family:'typo' ">naveen16@gmail.com</h4>
 		<h4 style="font-family:'typo' ">Nehru College Of Management ,Coimbatore</h4></div></div>
