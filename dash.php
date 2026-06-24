@@ -35,7 +35,7 @@ $(function () {
 <div class="header">
 <div class="row">
 <div class="col-lg-6">
-<span class="logo">MOHAMMED SATHAK ENGINEERING COLLEGE</span></div>
+<span class="logo">NEHRU COLLEGE OF MANAGEMENT</span></div>
 <?php
  include_once 'dbConnection.php';
 session_start();
